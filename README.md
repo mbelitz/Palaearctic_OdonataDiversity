@@ -17,6 +17,3 @@ Contains csv with IUCN and lentic/lotic traits for each species.
 
 ## scipts
 Scripts used to generate figures
-
-## Supplemental_Information
-Excel datasheet hosting data associated with Supplementary Table 1 (Species Name, IUCN Status, Strictly Lotic, Strictly forest, Region)
